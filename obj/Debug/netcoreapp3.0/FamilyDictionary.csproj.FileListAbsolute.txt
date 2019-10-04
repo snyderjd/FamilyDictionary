@@ -1,0 +1,11 @@
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/FamilyDictionary/bin/Debug/netcoreapp3.0/FamilyDictionary
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/FamilyDictionary/bin/Debug/netcoreapp3.0/FamilyDictionary.deps.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/FamilyDictionary/bin/Debug/netcoreapp3.0/FamilyDictionary.runtimeconfig.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/FamilyDictionary/bin/Debug/netcoreapp3.0/FamilyDictionary.runtimeconfig.dev.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/FamilyDictionary/bin/Debug/netcoreapp3.0/FamilyDictionary.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/FamilyDictionary/bin/Debug/netcoreapp3.0/FamilyDictionary.pdb
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/FamilyDictionary/obj/Debug/netcoreapp3.0/FamilyDictionary.csprojAssemblyReference.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/FamilyDictionary/obj/Debug/netcoreapp3.0/FamilyDictionary.AssemblyInfoInputs.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/FamilyDictionary/obj/Debug/netcoreapp3.0/FamilyDictionary.AssemblyInfo.cs
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/FamilyDictionary/obj/Debug/netcoreapp3.0/FamilyDictionary.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/dictionaries/FamilyDictionary/obj/Debug/netcoreapp3.0/FamilyDictionary.pdb
